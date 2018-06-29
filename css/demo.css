@@ -1,0 +1,29 @@
+/*----------------------------------------------*/
+/*                                              */
+/*                唐明明☀20150724               */
+/*                                              */
+/*----------------------------------------------*/
+
+body{
+    margin: 0;
+    padding: 0;
+    color: #333;
+    font-size:62.5%;
+    background: #ededed;
+    font-family: Microsoft YaHei;
+}
+
+/* screening */
+div.content{
+    width: 100%;
+    overflow: hidden;
+    background: #fff;
+    position: fixed;
+    z-index: 4;
+}
+
+.content-qrcode{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
